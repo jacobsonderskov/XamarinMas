@@ -75,3 +75,4 @@ BundleArtifacts/
 # NUNIT
 *.VisualState.xml
 TestResult.xml
+.vs/
