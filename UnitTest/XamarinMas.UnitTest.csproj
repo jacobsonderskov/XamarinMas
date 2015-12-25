@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BFFED7F7-9726-4500-AF72-13E99F20175F}</ProjectGuid>
+    <ProjectGuid>{FBFE4587-7E83-4A4F-A6B9-2D29FCCAD73B}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>XamarinXmas.UnitTests</RootNamespace>
-    <AssemblyName>XamarinXmas.UnitTests</AssemblyName>
+    <RootNamespace>XamarinMas.UnitTest</RootNamespace>
+    <AssemblyName>XamarinMas.UnitTest</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">

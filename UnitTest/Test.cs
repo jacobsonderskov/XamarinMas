@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using System;
 
-namespace XamarinXmas.UnitTests
+namespace XamarinMas.UnitTest
 {
 	[TestFixture ()]
 	public class Test
@@ -9,7 +9,6 @@ namespace XamarinXmas.UnitTests
 		[Test ()]
 		public void TestCase ()
 		{
-			Assert.True(false);
 		}
 	}
 }
