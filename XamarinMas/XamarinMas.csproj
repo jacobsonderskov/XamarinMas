@@ -62,4 +62,10 @@
     <Folder Include="Views\" />
     <Folder Include="Models\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\XamarinMas.Domain.csproj">
+      <Project>{3186BC07-9D20-4A48-B395-114C336F1E6A}</Project>
+      <Name>XamarinMas.Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
 </Project>
